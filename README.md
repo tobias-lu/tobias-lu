@@ -1,13 +1,20 @@
-Hello👋,
-it's Tobias F. I'm a student from Germany and a hobby programmer.
+*Hello👋*,
+
+it's **Tobias F.** I'm a student from *Germany* and a hobby programmer.
 
 I'm speaking german/english.
 
 Other details:
-Age: 15
-B-Day: 03.09
-Gender: M
-School: Geschwister-Sholl-Gymnasium
-Prog.-Lang.: Python, JS, HTML
 
-Thanks for reading :D
+> Age: _15_
+
+> B-Day: _03.09_
+
+> Gender: _M_
+
+> School: _Geschwister-Sholl-Gymnasium_
+
+> Prog.-Lang.: _Python, JS, HTML_
+
+
+**Thanks for reading :D**
