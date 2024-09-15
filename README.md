@@ -1,6 +1,6 @@
 *Hello👋*,
 
-it's **Tobias F.** I'm a student from *Germany* and like to learn programming.
+I'm a student from *Germany* and like to learn programming.
 
 I'm speaking german/english.
 
